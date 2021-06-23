@@ -1,0 +1,19 @@
+{
+  "name": "mern-memories",
+  "version": "1.0.0",
+  "description": "![Memories](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)",
+  "main": "/server/src/index.js",
+  "scripts": {
+    "start": "cd /server && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackPrism7537/mern-memories.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackPrism7537/mern-memories/issues"
+  },
+  "homepage": "https://github.com/BlackPrism7537/mern-memories#readme"
+}
